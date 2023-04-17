@@ -1,4 +1,15 @@
-![logo]()
+
+
+
+
+
+
+https://user-images.githubusercontent.com/121858089/232569987-f8d30281-d1e7-4fce-97d2-8876fc61e3be.mp4
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Jasleen Kaur</h1>
 <h3 align="center">A passionate Data and Business Intelligence Analyst</h3>
 <img align="right" alt="analytics" width="400" src="https://camo.githubusercontent.com/3f59d1cac2491cbae767816c1d0d289adda270c2382b10ad725ec617881f11c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313531393636302f73637265656e73686f74732f343533363535302f6769726c2d5f2d6c6170746f702e676966">
