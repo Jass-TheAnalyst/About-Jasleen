@@ -4,12 +4,17 @@
 <img align="right" alt="analytics" width="400" src="https://camo.githubusercontent.com/3f59d1cac2491cbae767816c1d0d289adda270c2382b10ad725ec617881f11c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313531393636302f73637265656e73686f74732f343533363535302f6769726c2d5f2d6c6170746f702e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jass-theanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 📫 How to reach me **danalyst99@gmail.com / jasleen2795@gmail.com**
+- 👩🏻‍🎓I have a technical background and hold a Bachelor's Degree (B.Tech.) in Computer Science.
+- 🏢 I have 2.5 years of experience in IBM  where I held roles such as Production Support Engineer and Junior Software Developer.
+- 👀 I'm ready to transition into the field of Analytics.
+- ⚒️ I currently use SQL, Microsoft Excel and Business Intelligence tools like Microsoft Power BI data querrying, manipulation and visualization.
+- 📃Python and Statistics are on my To-Do List.
+- 📞 I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and e-mail.
+- 📫 How to reach me : **danalyst99@gmail.com / jasleen2795@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasleen-k-130b52257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasleen-k-130b52257" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/danalyst99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/danalyst99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
