@@ -1,4 +1,4 @@
-Jass-TheAnalyst / README.md
+
 ![logo](https://github.com/Jass-TheAnalyst/Jasleen/blob/main/Github_Banner.gif)
 <h1 align="center">Hi 👋, I'm Jasleen Kaur</h1>
 <h3 align="center">A passionate Data and Business Intelligence Analyst</h3>
