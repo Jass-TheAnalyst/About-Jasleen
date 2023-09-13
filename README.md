@@ -9,7 +9,6 @@
 - 🏢 I have 2.5 years of experience in IBM  where I held roles such as Production Support Engineer and Junior Software Developer.
 - 👀 I'm ready to transition into the field of Analytics.
 - ⚒️ I currently use SQL, Microsoft Excel and Business Intelligence tools like Microsoft Power BI for data querrying, manipulation and visualization.
-- 📃Python and Statistics are on my To-Do List.
 - 📞 I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and e-mail.
 - 📫 How to reach me : **danalyst99@gmail.com / jasleen2795@gmail.com**
 
