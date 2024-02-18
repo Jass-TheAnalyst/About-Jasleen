@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jass-theanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 - 👩🏻‍🎓I have a technical background and hold a Bachelor's Degree (B.Tech.) in Computer Science.
-- 🏢 I have 2.5 years of experience in IBM  where I held roles such as Production Support Engineer and Junior Software Developer.
+- 🏢 In IBM, I held roles such as Production Support Engineer and Junior Software Developer.
 - 👀 I'm ready to transition into the field of Analytics.
 - ⚒️ I currently use SQL, Microsoft Excel and Business Intelligence tools like Microsoft Power BI for data querrying, manipulation and visualization.
 - 📞 I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and e-mail.
-- 📫 How to reach me : **danalyst99@gmail.com / jasleen2795@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
